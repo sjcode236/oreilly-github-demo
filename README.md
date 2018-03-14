@@ -5,7 +5,9 @@ A great example repo you can fork to your heart’s content, that serves as a la
 
 ## Getting started
 ##my  test line 1
-
+**[Learning GitHub branch2=a](http://shop.oreilly.com/category/videos/programming.do)**
+**[Learning GitHub branch2=b](http://shop.oreilly.com/category/videos/programming.do)**
+**[Learning GitHub branch2=c](http://shop.oreilly.com/category/videos/programming.do)**
 The first thing you want to do with this repo is quite likely **fork it**.  Use the Fork button in the top-right section of the page to do this.
 
 Once you’re on your fork, you can experiment however you like with it, play with branches, issues, milestones, labels, the wiki, and more.
