@@ -4,7 +4,7 @@ My Lovely Project
 A great example repo you can fork to your heart’s content, that serves as a launchpad for working your way through the amazing **[Learning GitHub](http://shop.oreilly.com/category/videos/programming.do)** video training series.
 
 ## Getting started
-##my  test line 1
+##my  test line 1 on branch2
 **[Learning GitHub branch2=a](http://shop.oreilly.com/category/videos/programming.do)**
 **[Learning GitHub branch2=b](http://shop.oreilly.com/category/videos/programming.do)**
 **[Learning GitHub branch2=c](http://shop.oreilly.com/category/videos/programming.do)**
